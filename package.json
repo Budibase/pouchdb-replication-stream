@@ -1,6 +1,6 @@
 {
-  "name": "pouchdb-replication-stream",
-  "version": "1.2.9",
+  "name": "@budibase/pouchdb-replication-stream",
+  "version": "1.2.10",
   "description": "PouchDB/CouchDB replication as a stream",
   "main": "lib/index.js",
   "repository": {
